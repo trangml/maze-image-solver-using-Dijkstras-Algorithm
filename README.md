@@ -20,11 +20,15 @@ numpy
 matplotlib
 
 Install packages using pip install
-
+```
+$ pip install python-opencv numpy matplotlib
+```
 Instructions for how to run:
 From inside the same directory Solver.py is in, use the following to run:
 
-usage: Solver.py [-h] [--method {TDDP,BUDP,Recursive,Benchmark,Difficulty}] [--maze_file MAZE_FILE]
+usage: 
+```
+Solver.py [-h] [--method {TDDP,BUDP,Recursive,Benchmark,Difficulty}] [--maze_file MAZE_FILE]
 
 optional arguments:
 -h, --help show this help message and exit
@@ -32,8 +36,9 @@ optional arguments:
         which form of algorithm to run, TDDP, BUDP, or Recursive. Pass Benchmark to run benchmark test, or Difficulty to test difficulty
 --maze_file MAZE_FILE
         the file of the maze (where <input_maze_image_name> is any of the files in the assets folder)
-
+```
 ex:
-
+```
 $ python Solver.py --method TDDP --maze_file maze_25x25_hard.png
 $ python Solver.py --method Benchmark
+```
