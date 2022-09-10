@@ -11,7 +11,7 @@ following the shortest path.
 
 <img src="assets/input_maze_25x25_hard.png" alt="25x25 maze" width="350"> <img src="assets/output_maze_25x25_hard.png" alt="25x25 maze" width="350">
 
-<img src="assets/maze_300x300_hard.png" alt="300x300 maze" width="350"> <img src="assets/output_maze_300x300.png" alt="25x25 maze" width="350">
+<img src="assets/maze_100x100_hard.png" alt="100x100 maze" width="350"> <img src="assets/output_maze_100x100_hard.png" alt="25x25 maze" width="350">
 
 ## Manual install
 Necessary Packages:
