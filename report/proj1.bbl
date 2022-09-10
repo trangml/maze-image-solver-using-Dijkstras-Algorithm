@@ -1,0 +1,19 @@
+\begin{thebibliography}{1}
+
+\bibitem{cormen_introduction_2009}
+Thomas~H. Cormen, editor.
+\newblock {\em Introduction to algorithms}.
+\newblock MIT Press, Cambridge, Mass, 3rd ed edition, 2009.
+\newblock OCLC: ocn311310321.
+
+\bibitem{reynolds_python_2020}
+Maxwell Reynolds.
+\newblock Python {Learning} {Project}: {Dijkstra}, {OpenCV}, and {UI}
+  {Algorithm} ({Part} 1) - {Prog}.{World}, October 2020.
+
+\bibitem{sniedovich_dijkstras_nodate}
+Moshe Sniedovich.
+\newblock Dijkstra’s algorithm revisited: the dynamic programming connexion.
+\newblock page~22.
+
+\end{thebibliography}
